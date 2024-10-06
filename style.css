@@ -5,5 +5,10 @@
     --bg-black-50:#e8dfec;
     --text-black-900:#302e42;
     --text-black-700:#504e70;
-    
+}
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 16px;
 }
